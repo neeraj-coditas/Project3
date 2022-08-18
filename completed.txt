@@ -1,3 +1,5 @@
 Kotlin Basics
 OOP
 DSA
+
+Merge Conflicts and how to resolve them
